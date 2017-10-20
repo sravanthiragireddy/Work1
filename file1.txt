@@ -1,7 +1,8 @@
+<<<<<<< HEAD
 
 
 mnmvnkjsfBiiiii
-B
+
 B
 first line
 second line
@@ -25,3 +26,8 @@ B
 B
 B
 
+=======
+aaaaaaa
+bbbbbb
+cccccc
+>>>>>>> f1e50624f20da2c90d7b920d4f66c07a8456cb7b
